@@ -13,4 +13,6 @@
   - Run `php artisan db:seed`
 - Run `php artisan storage:link`
 - Run `php artisan serve`
+## If you face a problem during installing
+- Contact me on telegram `@hbns35`
 
